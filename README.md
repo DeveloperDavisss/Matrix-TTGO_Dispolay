@@ -1,2 +1,3 @@
-# Matrix-TTGO_Dispolay
-Matrix on display TTGO using lib TFT_SPI
+## Demo
+
+![Matrix Effect no TTGO](image/matrix_ttgo.jpg)
