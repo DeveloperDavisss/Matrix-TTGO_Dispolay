@@ -1,3 +1,3 @@
 ## Demo
 
-![Matrix Effect no TTGO](image/matrix_ttgo.jpg)
+![Matrix Animation](image/matrix_ttgo.gif)
